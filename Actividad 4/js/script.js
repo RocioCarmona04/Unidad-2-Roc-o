@@ -1,4 +1,4 @@
-function prueba() {
+function Calcular() {
     let a;
     let b;
     a= parseInt(prompt("Dime el numero a"));
