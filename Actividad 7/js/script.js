@@ -1,6 +1,6 @@
 function Comprobar() {
   let nota;
-  nota = parseFloat(document.getElementById("caja").value);
+  nota = parseFloat(document.getElementById("espacio").value);
 
  
   if (nota<0 || nota>10) {
